@@ -1,2 +1,2 @@
-# stratis_jenkins
+# stratis-jenkins
 CI related files for Stratis
